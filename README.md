@@ -52,10 +52,9 @@ Las contribuciones son bienvenidas. Puedes hacerlo de la siguiente manera:
 4. Haz un push a la rama (`git push origin feature/nueva-caracteristica`).
 5. Abre un Pull Request.
 
-
 ---
 
-Este proyecto está realizado gracias a @midudev y su objetivo de mejorar la empleabilidad de la comunidad de Programación Hispana y el acceso a contenido de calidad sobre Desarrollo Web. El proyecto de midu es este: Tinder Swipe. Aprende a crear el efecto de swipe de Tinder con HTML, CSS y JavaScript.
+Este proyecto está realizado gracias a [@midudev](https://github.com/midudev) y su objetivo de mejorar la empleabilidad de la comunidad de Programación Hispana y el acceso a contenido de calidad sobre Desarrollo Web. El proyecto de midu es este: Tinder Swipe. Aprende a crear el efecto de swipe de Tinder con HTML, CSS y JavaScript.
 
 - **DOM**
 - **Animaciones con gestos**
